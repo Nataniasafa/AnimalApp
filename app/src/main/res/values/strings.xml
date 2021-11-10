@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AnimalApps</string>
+    <string name="title">Nama Hewan</string>
+    <string name="info">Info</string>
+    <string name="hewan">Hewan</string>
+    <string name="latin">Latin</string>
+    <string name="ket">Keterangan</string>
+    <string name="habitat">Habitat</string>
+    <string name="klasifikasi">Klasifikasi Ilmiah</string>
+    <string name="fav">Tambah Favorite</string>
+    <string name="list">List Animal</string>
+    <string name="favorite">Favorite</string>
+    <string name="hapus">Hapus Favorite</string>
+</resources>
